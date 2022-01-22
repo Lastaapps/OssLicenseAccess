@@ -1,0 +1,221 @@
+0:46 androidx.localbroadcastmanager:localbroadcastmanager
+47:46 androidx.activity:activity
+94:46 androidx.compose.ui:ui-geometry
+141:47 com.google.android.gms:play-services-measurement-sdk
+189:10691 AndroidX annotation experimental library
+10881:10694 AndroidX lifecycle common library
+21576:10694 AndroidX lifecycle livedatacore library
+32271:10694 AndroidX lifecycle runtime library
+42966:10694 AndroidX tracing library
+53661:1096 Animal Sniffer
+54758:1892 Checker Framework Annotations
+56651:11357 Error Prone
+68009:11358 Google Auto
+79368:11358 Guava JDK5
+90727:11362 Guava JDK7
+102090:13064 J2ObjC
+115155:11358 JSR 250
+126514:1602 JSR 305
+128117:11365 JSR 330
+139483:11358 JSpecify
+150842:11307 JsInterop Annotations
+162150:11358 SafeParcelable library
+173509:10695 apksig
+184205:1125 checker_framework_util
+185331:46 org.jetbrains.kotlin:kotlin-stdlib-jdk7
+185378:46 androidx.core:core
+185425:46 androidx.lifecycle:lifecycle-livedata
+185472:47 com.google.android.gms:play-services-basement
+185520:10695 AndroidX document file library.
+196216:10695 AndroidX print library.
+206912:10695 AndroidX versioned parcelable library.
+217608:11342 FlatBuffers
+228951:11358 safeparcel
+240310:46 androidx.lifecycle:lifecycle-runtime
+240357:46 com.google.firebase:firebase-installations
+240404:46 org.jetbrains.kotlin:kotlin-stdlib-common
+240451:46 androidx.compose.animation:animation
+240498:46 com.google.android.datatransport:transport-api
+240545:46 androidx.lifecycle:lifecycle-viewmodel
+240592:47 com.google.android.gms:play-services-ads-identifier
+240640:11342 flatbuffers
+251983:11365 absl
+263349:1732 Protobuf Nano
+265082:46 androidx.lifecycle:lifecycle-runtime-ktx
+265129:47 com.google.android.play:core-ktx
+265177:47 com.google.android.gms:play-services-measurement-impl
+265225:46 androidx.collection:collection
+265272:47 com.google.android.gms:play-services-base
+265320:21000 ICU4C
+286321:680 STL
+287002:731 UTF
+287734:46 androidx.arch.core:core-common
+287781:46 androidx.versionedparcelable:versionedparcelable
+287828:46 androidx.lifecycle:lifecycle-viewmodel-compose
+287875:46 com.google.code.findbugs:jsr305
+287922:46 androidx.annotation:annotation
+287969:46 androidx.test.espresso:espresso-idling-resource
+288016:47 com.google.android.gms:play-services-cloud-messaging
+288064:46 androidx.compose.ui:ui
+288111:46 com.google.android.datatransport:transport-backend-cct
+288158:46 androidx.documentfile:documentfile
+288205:46 androidx.compose.material:material-ripple
+288252:46 androidx.vectordrawable:vectordrawable-animated
+288299:46 androidx.activity:activity-compose
+288346:46 androidx.test.ext:junit-ktx
+288393:47 com.google.android.gms:play-services-measurement-base
+288441:47 com.google.android.gms:play-services-tasks
+288489:46 com.google.firebase:firebase-crashlytics-ktx
+288536:46 androidx.navigation:navigation-runtime
+288583:47 com.google.android.gms:play-services-stats
+288631:46 androidx.compose.ui:ui-tooling-preview
+288678:46 androidx.savedstate:savedstate
+288725:47 com.google.android.gms:play-services-measurement-sdk-api
+288773:46 androidx.appcompat:appcompat
+288820:46 androidx.drawerlayout:drawerlayout
+288867:46 androidx.lifecycle:lifecycle-common
+288914:46 androidx.databinding:viewbinding
+288961:46 androidx.vectordrawable:vectordrawable
+289008:46 androidx.loader:loader
+289055:46 androidx.cursoradapter:cursoradapter
+289102:46 androidx.compose.animation:animation-core
+289149:46 org.jetbrains.kotlin:kotlin-reflect
+289196:46 androidx.legacy:legacy-support-core-utils
+289243:46 androidx.savedstate:savedstate-ktx
+289290:46 androidx.compose.compiler:compiler
+289337:46 androidx.constraintlayout:constraintlayout-compose
+289384:46 com.google.firebase:firebase-components
+289431:46 androidx.work:work-runtime-ktx
+289478:47 com.google.android.gms:play-services-measurement
+289526:11357 Firebase
+300884:46 javax.inject:javax.inject
+300931:46 androidx.test.espresso:espresso-core
+300978:46 androidx.navigation:navigation-common
+301025:46 org.jetbrains:annotations
+301072:46 androidx.datastore:datastore-preferences-core
+301119:46 com.google.firebase:firebase-config-ktx
+301166:46 androidx.print:print
+301213:46 androidx.test:monitor
+301260:46 com.google.firebase:firebase-config
+301307:46 androidx.arch.core:core-runtime
+301354:47 org.jetbrains.kotlinx:kotlinx-coroutines-android
+301402:46 androidx.interpolator:interpolator
+301449:46 org.jetbrains.kotlin:kotlin-stdlib-jdk8
+301496:46 androidx.lifecycle:lifecycle-livedata-core
+301543:46 com.google.android.datatransport:transport-runtime
+301590:46 androidx.compose.ui:ui-unit
+301637:46 androidx.annotation:annotation-experimental
+301684:47 com.google.android.gms:play-services-oss-licenses
+301732:46 androidx.collection:collection-ktx
+301779:46 androidx.test:runner
+301826:46 androidx.navigation:navigation-runtime-ktx
+301873:46 androidx.compose.foundation:foundation
+301920:46 androidx.fragment:fragment
+301967:46 androidx.work:work-runtime
+302014:47 com.google.firebase:firebase-measurement-connector
+302062:46 androidx.compose.runtime:runtime-saveable
+302109:46 com.google.firebase:firebase-annotations
+302156:47 com.google.android.gms:play-services-measurement-api
+302204:46 com.google.firebase:firebase-crashlytics
+302251:11361 Tape
+313613:46 androidx.startup:startup-runtime
+313660:46 androidx.appcompat:appcompat-resources
+313707:46 com.google.firebase:firebase-messaging-ktx
+313754:46 androidx.datastore:datastore-preferences
+313801:46 androidx.core:core-ktx
+313848:41 junit:junit
+313890:46 androidx.lifecycle:lifecycle-livedata-core-ktx
+313937:46 androidx.test.ext:junit
+313984:47 com.google.firebase:firebase-messaging
+314032:16013 Android SDK
+330046:10695 AndroidX activity library
+340742:10695 AndroidX annotation library
+351438:10694 AndroidX architecture core library
+362133:10694 AndroidX architecture library
+372828:10695 AndroidX asynclayoutinflater library
+383524:10695 AndroidX collection library
+394220:10695 AndroidX concurrent futures library
+404916:10695 AndroidX coordinatorlayout library
+415612:10175 AndroidX core library
+425788:10695 AndroidX cursoradapter library
+436484:10695 AndroidX customview library
+447180:10695 AndroidX documentfile library
+457876:10695 AndroidX drawerlayout library
+468572:10695 AndroidX fragment library
+479268:10693 AndroidX interpolator library
+489962:10695 AndroidX legacy coreui library
+500658:10695 AndroidX legacy coreutils library
+511354:10695 AndroidX legacy v4 library
+522050:10694 AndroidX lifecycle viewmodel library
+532745:10693 AndroidX lifecycle viewmodel savedstate library
+543439:10175 AndroidX loader library
+553615:10693 AndroidX localbroadcastmanager library
+564309:10691 AndroidX media base library
+575001:10695 AndroidX print library
+585697:10689 AndroidX savedstate library
+596387:10695 AndroidX swiperefreshlayout library
+607083:10695 AndroidX versionedparcelable library
+617779:10695 AndroidX viewpager library
+628475:11358 Dagger
+639834:46 androidx.navigation:navigation-compose
+639881:46 androidx.compose.ui:ui-text
+639928:46 androidx.compose.runtime:runtime
+639975:46 androidx.viewpager:viewpager
+640022:46 androidx.compose.material:material-icons-core
+640069:46 androidx.test.services:storage
+640116:46 androidx.lifecycle:lifecycle-viewmodel-savedstate
+640163:46 com.google.firebase:firebase-encoders
+640210:46 androidx.compose.ui:ui-graphics
+640257:46 androidx.navigation:navigation-common-ktx
+640304:46 androidx.activity:activity-ktx
+640351:47 org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm
+640399:46 androidx.customview:customview
+640446:46 androidx.datastore:datastore
+640493:46 com.google.firebase:firebase-encoders-json
+640540:46 androidx.datastore:datastore-core
+640587:46 com.google.firebase:firebase-common
+640634:46 androidx.compose.ui:ui-tooling
+640681:46 com.google.firebase:firebase-datatransport
+640728:46 androidx.compose.material:material
+640775:46 androidx.lifecycle:lifecycle-livedata-ktx
+640822:47 com.google.firebase:firebase-analytics
+640870:46 com.google.firebase:firebase-abt
+640917:47 com.google.android.play:core
+640965:46 androidx.compose.foundation:foundation-layout
+641012:47 com.google.firebase:firebase-analytics-ktx
+641060:102807 Kotlin
+743868:46 androidx.compose.ui:ui-tooling-data
+743915:47 com.google.firebase:firebase-iid-interop
+743963:46 com.google.firebase:firebase-installations-interop
+744010:46 com.squareup:javawriter
+744057:46 org.jetbrains.kotlin:kotlin-stdlib
+744104:46 androidx.compose.material:material-icons-extended
+744151:46 androidx.lifecycle:lifecycle-viewmodel-ktx
+744198:46 androidx.test:core
+744245:46 com.google.firebase:firebase-common-ktx
+744292:47 org.jetbrains.kotlinx:kotlinx-coroutines-core
+744340:46 androidx.constraintlayout:constraintlayout
+744387:46 androidx.sqlite:sqlite-framework
+744434:46 androidx.emoji2:emoji2-views-helper
+744481:46 androidx.lifecycle:lifecycle-service
+744528:46 androidx.room:room-common
+744575:46 androidx.constraintlayout:constraintlayout-core
+744622:46 androidx.tracing:tracing
+744669:46 androidx.coordinatorlayout:coordinatorlayout
+744716:46 androidx.profileinstaller:profileinstaller
+744763:46 androidx.emoji2:emoji2
+744810:46 com.google.android.material:material
+744857:46 androidx.lifecycle:lifecycle-process
+744904:46 androidx.cardview:cardview
+744951:46 androidx.concurrent:concurrent-futures
+744998:46 androidx.viewpager2:viewpager2
+745045:46 androidx.transition:transition
+745092:46 androidx.dynamicanimation:dynamicanimation
+745139:46 androidx.sqlite:sqlite
+745186:46 androidx.lifecycle:lifecycle-common-java8
+745233:46 androidx.compose.ui:ui-util
+745280:46 androidx.resourceinspection:resourceinspection-annotation
+745327:46 androidx.autofill:autofill
+745374:46 androidx.recyclerview:recyclerview
+745421:46 androidx.room:room-runtime
+745468:46 androidx.room:room-ktx
