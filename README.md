@@ -58,7 +58,45 @@ dependencies {
 
 #### Gradle
 
-Well, it's gonna be pretty similar...
+root `build.gradle`.
+
+```groovy
+buildscript {
+    dependencies {
+        classpath("com.google.android.gms:oss-licenses-plugin:0.10.4")
+    }
+}
+// if you are not using settings.gradle.kts dependency management
+allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+}
+```
+
+If you use dependency management is managed in `settings.gradle` (preferred).
+
+```groovy
+dependencyResolutionManagement {
+    repositories {
+        maven { url "https://jitpack.io"}
+    }
+}
+```
+
+And than in your app level `build.gradle`.
+
+```groovy
+plugins {
+    id("com.google.android.gms.oss-licenses-plugin")
+}
+dependencies {
+    implementation("com.github.Lastaapps:OssLicenseAccess:1.0")
+
+    // don't do that, we are trying to get rid of it
+    //implementation("com.google.android.gms:play-services-oss-licenses:17.0.0")
+}
+```
 
 
 

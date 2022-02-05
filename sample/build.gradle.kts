@@ -8,12 +8,13 @@ plugins {
 val composeVersion = "1.2.0-alpha01"
 
 android {
-    compileSdk = 32
+    compileSdk = 31
+    buildToolsVersion = "31.0.0"
 
     defaultConfig {
         applicationId = "cz.lastaapps.osslicenseaccess.sample"
         minSdk = 21
-        targetSdk = 32
+        targetSdk = 31
         versionCode = 1
         versionName = "1.0"
 
@@ -21,7 +22,7 @@ android {
     }
 
     buildTypes {
-        release {
+        getByName("release") {
             isMinifyEnabled = false
             proguardFile(getDefaultProguardFile("proguard-android-optimize.txt"))
         }
@@ -43,7 +44,7 @@ android {
 
 dependencies {
 
-    //don't do that
+    // Don't do that
     //implementation("com.google.android.gms:play-services-oss-licenses:17.0.0")
 
     implementation(project(":oss-license-access"))
